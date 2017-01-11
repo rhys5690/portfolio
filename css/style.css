@@ -1,3 +1,28 @@
+
+.header {
+  background-color: rgba(40, 50, 62, 1.0);
+}
+
+.nav-bar {
+
+  color: white;
+  text-align: center;
+}
+
+.background-1 {
+  background-color: #091946;
+  color: white;
+}
+
+.background-2 {
+  background-color: #58473C;
+  color: white
+}
+
 .intro {
+  text-align: center;
+}
+
+.contact {
   text-align: center;
 }
